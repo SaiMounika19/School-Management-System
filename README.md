@@ -1,2 +1,2 @@
 # School-Management-System
-– Implemented CRUD operations for student records with Servlets and JSP. Built responsive UI using HTML, CSS and optimized PostgreSQL query performance.
+A comprehensive School Management System built to simplify and automate day-to-day academic operations. This system helps administrators, teachers, students, and parents efficiently manage school activities, track records, and maintain organized workflows.
